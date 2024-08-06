@@ -14,9 +14,9 @@ Here are some of the projects I've completed so far:
 ### 1. **Landing Page Woddy**
    - **Description:** Mahid's Woddy landing page implemented into a website.
    - **Technologies Used:** HTML, CSS
-   - **[View Project]([link-to-your-project](https://github.com/denygum/Landing-page-Woddy))**
+   - **[View Project](https://github.com/denygum/Landing-page-Woddy)**
    - **Screenshot:**
-   ![Personal Profile Page]([link-to-image](https://github.com/denygum/Landing-page-Woddy/blob/main/screencapture.png))
+   ![Personal Profile Page](https://github.com/denygum/Landing-page-Woddy/blob/main/screencapture.png)
 
 ## 🌱 Learning Journey
 I'm currently learning more about:
