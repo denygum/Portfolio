@@ -11,25 +11,17 @@ This is my personal portfolio where I showcase the projects I've worked on as I 
 ## 📚 Projects
 Here are some of the projects I've completed so far:
 
-### 1. **Personal Profile Page**
-   - **Description:** A simple personal profile page that introduces myself. This was my first project where I learned how to structure a webpage using HTML and style it with CSS.
+### 1. **Landing Page Woddy**
+   - **Description:** Mahid's Woddy landing page implemented into a website.
    - **Technologies Used:** HTML, CSS
-   - **[View Project](link-to-your-project)**
+   - **[View Project]([link-to-your-project](https://github.com/denygum/Landing-page-Woddy))**
    - **Screenshot:**
-   ![Personal Profile Page](link-to-image)
-
-### 2. **Simple Product Landing Page**
-   - **Description:** A basic landing page for a fictional product. This project helped me understand how to layout elements on a page and use CSS to style them.
-   - **Technologies Used:** HTML, CSS
-   - **[View Project](link-to-your-project)**
-   - **Screenshot:**
-   ![Product Landing Page](link-to-image)
+   ![Personal Profile Page]([link-to-image](https://github.com/denygum/Landing-page-Woddy/blob/main/screencapture.png))
 
 ## 🌱 Learning Journey
 I'm currently learning more about:
 - Responsive Web Design
 - CSS Grid and Flexbox for advanced layouts
-- JavaScript basics to add interactivity to web pages
 
 ## 🛠️ Tools
 - **VSCode:** My code editor of choice.
