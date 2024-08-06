@@ -30,7 +30,7 @@ I'm currently learning more about:
 ## 📬 Get in Touch
 I'm open to feedback and collaboration! You can reach me at:
 - **Email:** [denygumilar33@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/denygumilar/)
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/denygumilar/)]
 - **Portfolio Website:** [yourwebsite.com](https://yourwebsite.com) (Coming Soon!)
 
 Thanks for checking out my portfolio! 😊
